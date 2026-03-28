@@ -1,6 +1,6 @@
-# React Routing Assignment (60 Marks)
+## React Routing Assignment 
 
-## Tasks
+### Tasks
 
 1. Install react-router-dom
 2. Implement routing:
@@ -11,5 +11,5 @@
 4. Deploy on Vercel
 5. Add deployment URL below
 
-## Deployment URL
+### Deployment URL
 (Add here)
